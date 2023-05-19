@@ -1,0 +1,15 @@
+.logo{
+    color: blue;
+    font-size: 36px;
+}
+.navbar-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
+.menu-items{
+    display: flex;
+    gap: 16px;
+}
